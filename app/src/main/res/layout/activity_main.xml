@@ -75,7 +75,7 @@
                 android:textColor="@color/black"
                 android:textColorHint="#808080"
                 android:background="@android:color/transparent"
-                android:paddingStart="20dp"></EditText>
+                android:paddingStart="10dp"></EditText>
 
 
         </LinearLayout>
