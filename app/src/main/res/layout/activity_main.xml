@@ -169,7 +169,7 @@ Limited, on my behalf."
         android:layout_marginTop="20dp"></TextView>
 
 
-    <EditText
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:layout_marginTop="20dp"
@@ -177,7 +177,7 @@ Limited, on my behalf."
         android:background="@drawable/grey_rect"
         android:textColorHint="#808080"
         android:layout_marginHorizontal="20dp"
-        android:gravity="center"></EditText>
+        android:gravity="center"></TextView>
 
 
 
