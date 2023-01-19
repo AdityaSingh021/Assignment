@@ -6,5 +6,5 @@ figma project link2-    https://www.figma.com/file/S5r1LPNAruxZuCIfpQldjy/Untitl
 
 
 Screenshots-
-![2](https://user-images.githubusercontent.com/111244358/212838866-bd575398-95a1-4913-8143-a363042869ee.jpeg)
-![1](https://user-images.githubusercontent.com/111244358/212838898-5ba5af3d-16ff-44fc-914d-c0dcd2c6bba5.jpeg)
+![ab2](https://user-images.githubusercontent.com/111244358/213397456-0b36dbe4-aff5-424e-940c-6fe9d95df002.jpeg)
+![ab1](https://user-images.githubusercontent.com/111244358/213397443-b314d638-0a6e-42e7-af5a-0ab72ed6b716.jpeg)
