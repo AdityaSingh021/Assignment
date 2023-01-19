@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Assignment</string>
-    <string name="hyperlink">I agree to <a href ="https://www.onescore.app/legal/cibiltnc/#:~:text=5.-,Your%20Use%20of%20OneScore,is%20only%20for%20personal%20purposes.">Terms of use</a> and <a href="https://www.onescore.app/privacy/">Privacy Policy</a>of OneScore and <a href="https://www.onescore.app/privacy/">CIBIL</a></string>
+    <string name="hyperlink">I agree to <a href ="https://www.onescore.app/legal/cibiltnc/#:~:text=5.-,Your%20Use%20of%20OneScore,is%20only%20for%20personal%20purposes.">Terms of use</a> and <a href="https://www.onescore.app/privacy/">Privacy Policy </a>of OneScore and <a href="https://www.transunioncibil.com/about-us/company-history">CIBIL</a></string>
 </resources>
